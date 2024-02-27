@@ -1,0 +1,15 @@
+.box {
+    background: #f4f4f4;
+    border: 2px #777 solid ;
+}
+
+* {
+    margin: 0;
+    padding: 20px;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 500px;
+    box-sizing: border-box;
+    margin: 20px;
+}

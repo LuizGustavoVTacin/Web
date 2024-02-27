@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.4em;
+}
+.container {
+    max-width: 960px;
+    margin: 30px auto;
+}
+
+.box {
+    background: #f4f4f4;
+    border: 1px solid #333;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
+.box p {
+    text-align: left;
+    text-align: center
+}
+
+#box-2 {
+    float: left;
+    width: 70%;
+}
+
+#box-3 {
+    float: right;
+    width: 25%;
+}

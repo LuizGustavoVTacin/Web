@@ -1,0 +1,30 @@
+a {
+    color: #333;
+    text-decoration: none;
+}
+
+a:hover {
+    color: green;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: red ;
+    text-decoration: none;
+}
+
+.btn {
+    background: #4c6ca0;
+    color: #fff;
+    border: none;
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    color: blue;
+    background: #1f2c4c;
+    cursor: pointer;
+}

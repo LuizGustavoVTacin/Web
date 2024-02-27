@@ -1,0 +1,23 @@
+#box-1 {
+    color: green;
+    background-color: blanchedalmond;
+    border-width: 3px;
+    border-color: red;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+#box-2 {
+    background-color: black;
+    border: 3px dotted blue;
+    border-top-left-radius: 10px;
+}
+
+#box-3 {
+    background-image: url('./images/stars.png');
+    background-repeat: no-repeat;
+    background-position: 100px 100px;
+    background-size: cover;
+    height: 300px;
+    width: 600px
+}
